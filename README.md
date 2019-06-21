@@ -21,7 +21,7 @@
 
 [+] install and use
   
-    git clone https://github.com/TechnicalMujeeb/Termux-Login.git
+    git clone https://github.com/uchil404/Termux-Login.git
 
     cd Termux-Login
 
