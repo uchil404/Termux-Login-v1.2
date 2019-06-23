@@ -19,7 +19,7 @@ def menu():
                 print("")
                 e = getpass('\033[1;92mPassword \033[1;93m: ')
                 print ("")
-                if x=="mujeeb" and e=="12345":
+                if x=="uchil404" and e=="uchil404":
                    print('wait...')
                    time.sleep(1)
                    os.system('clear')
